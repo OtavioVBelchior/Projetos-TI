@@ -4,7 +4,7 @@ Projeto RD Station:
 
 - Integração com a Conecta Hub, acompanhando as alterações e aberturas de chamados para a TOTVS, junto a aplicação de patchs. 
 
-- Fui incluso ao novo projeto TOTVS com a SIRIUS que será a nova empresa que irá fazer a integração com o RSxPROTHEUS. Assumindo a mesma função de abrir chamados, ajustes t-cloud.
+- Participação no progeto de integração da TOTVS com a SIRIUS que será a nova empresa que irá fazer a integração com o RSxPROTHEUS. Assumindo a mesma função de abrir chamados, ajustes t-cloud.
 
 - Por partes também assumo demandas específicas como aberturas de chamados para API, integrações com PowerBI.
 
