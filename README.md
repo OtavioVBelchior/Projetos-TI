@@ -28,7 +28,9 @@ Infraestrutura :
 
 - Possuo projetos finalizados como melhoria do servidor, internet. 
 
-- Desde que entrei, atuei 50% em infra para solucionar os problemas internos, como falta de máquina, máquinas com baixo desempenho.
+- Desde que assumi o setor de TI akafloor, atuei 50% em infra para solucionar os problemas internos, como falta de máquina, máquinas com baixo desempenho.
+
+- Em minha atuação pela empresa Uniptan Afya, refiz o inventario de 232 maquinas ativas no parque atual no ano de 2021. Projetos internos como cabeamentos internos e externos.
 
 
 Projeto Site Akafloor:  https://www.akafloor.com.br/
@@ -41,6 +43,9 @@ Projeto Site Akafloor:  https://www.akafloor.com.br/
 
 - Hoje em dia estamos no projeto de tirar as fotos dos produtos de forma que fique em banner rotativo, diretamente aqui na Matriz.
 
+Projeto Site Akaflex:
+
+- Inicialmente, participei de chamadas, ajustes e idealizações para a criação do novo site de vinílicos SPC vinculado à Akafloor.
 
 Projeto PROTHEUS TOTVS:
 
