@@ -1,6 +1,6 @@
 
 
-Projeto: Implementação do Microsoft 365 e SharePoint na Akafloor
+-Projeto: Implementação do Microsoft 365 e SharePoint na Akafloor
 
 Objetivos:
 Implantar o Microsoft 365 para 75 usuários.
@@ -20,7 +20,7 @@ Adoção eficiente do Microsoft 365.
 Centralização de documentos.
 Aumento da produtividade e integração entre equipes.
 
-Projeto: Integração de Módulos do Protheus na Akafloor
+-Projeto: Integração de Módulos do Protheus na Akafloor
 
 Objetivos:
 Reintegrar módulos do Protheus para otimizar processos internos.
@@ -39,7 +39,7 @@ Resultados:
 Melhor eficiência operacional.
 Integração bem-sucedida dos módulos do Protheus.
 
-Projeto: Reestruturação de Estruturas de Produtos
+-Projeto: Reestruturação de Estruturas de Produtos
 
 Objetivos:
 Reorganizar centros de custo e gastos de produção.
